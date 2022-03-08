@@ -1,6 +1,6 @@
 # AULA 02
 
-IMERSÃO DEV_ DA ALURA - [SEGUNDA AULA](https://imersao.dev/aulas/aula02-conversor-moedas).
+IMERSÃO DEV_ DA ALURA - [AULA/02](https://imersao.dev/aulas/aula02-conversor-moedas).
 
 
 ## Conteúdo detalhado desta aula:
